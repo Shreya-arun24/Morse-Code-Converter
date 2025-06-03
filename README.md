@@ -1,7 +1,5 @@
 # MorseWise: The Code Converter & QR Wizard
 
-![MorseWise Logo](https://via.placeholder.com/150) *(Replace with actual logo if available)*
-
 ## 📌 Overview
 MorseWise is a versatile Java application that bridges traditional Morse code with modern technology. It offers seamless text-to-Morse and Morse-to-text conversion, QR code generation for Morse messages, and advanced playback features—all wrapped in an intuitive interface.
 
